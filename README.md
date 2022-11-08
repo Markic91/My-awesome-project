@@ -1,2 +1,3 @@
-# My-awesome-project
-I'm fed up with git, repo etc but i have to learn it
+Achievements
+
+J'au réussi à faire clone, pull et je m'apprête à faire un pull
